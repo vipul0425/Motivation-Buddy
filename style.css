@@ -1,0 +1,21 @@
+body{
+    height: 200px;
+    width: 300px;
+    background-color: cornsilk;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px 10px;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: maroon;
+    font-weight: bold;
+}
+p{
+    font-size: 18px;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
